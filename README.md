@@ -1,4 +1,4 @@
-# Uzaktan Algılama Ders Ödevleri ([2024/Bahar])
+# Uzaktan Algılama Ders Ödevleri ([2025/Bahar])
 ---
 
 Bu repository, Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği YL bünyesinde verilen **Remote Sensing** dersi kapsamında yapılan ödevleri, projeleri ve çalışmaları içermektedir.
