@@ -10,8 +10,8 @@ Bu deponun temel amacı, ders süresince tamamlanan tüm çalışmaları düzenl
 
 | Ödev No | Konu Başlığı                      | Klasör        | Durum     |
 | :------ | :-------------------------------- | :------------ | :-------- |
-| Ödev 1  | Konvolüsyon Fonksiyonu            | [`Homework1/`](./Homework1) | Devam Ediyor |
-| Ödev 2  | DTFT Fonksiyonu Çizdirme          | [`Homework2/`](./Homework2) | Devam Ediyor |
+| Ödev 1  | Konvolüsyon Fonksiyonu            | [`Homework1/`](./Homework1) | Tamamlandı ✅ |
+| Ödev 2  | DTFT Fonksiyonu Çizdirme          | [`Homework2/`](./Homework2) | Tamamlandı ✅ |
 | Proje   | [Proje Konusu]                    | [`Project/`](./Project) | Başlanmadı  |
 | ...     | ...                               | ...           | ...       |
 
