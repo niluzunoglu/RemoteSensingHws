@@ -35,4 +35,5 @@ for idx, N in enumerate(N_values):
     axs[idx, 1].grid(True)
 
 plt.tight_layout()
+plt.savefig('DTFT_H_spectra.png')
 plt.show()
