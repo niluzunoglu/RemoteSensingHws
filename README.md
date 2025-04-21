@@ -12,8 +12,8 @@ Bu deponun temel amacı, ders süresince tamamlanan tüm çalışmaları düzenl
 | :------ | :-------------------------------- | :------------ | :-------- |
 | Ödev 1  | Konvolüsyon Fonksiyonu            | [`Homework1/`](./Homework1) | Tamamlandı ✅ |
 | Ödev 2  | DTFT Fonksiyonu Çizdirme          | [`Homework2/`](./Homework2) | Tamamlandı ✅ |
-| Ödev 3  | DTMF Tuş Frekansları Bulma        | [`Homework3/`](./Homework3) | Devam Ediyor ⌛ |
-| Ödev 4  | Python Histogramlar               | [`Homework4/`](./Homework4) | Devam Ediyor ⌛ |
+| Ödev 3  | DTMF Tuş Frekansları Bulma        | [`Homework3/`](./Homework3) | Tamamlandı ✅  |
+| Ödev 4  | Python Histogramlar               | [`Homework4/`](./Homework4) | Tamamlandı ✅  |
 | Proje   | [Proje Konusu]                    | [`Project/`](./Project) | Başlanmadı  |
 | ...     | ...                               | ...           | ...       |
 
