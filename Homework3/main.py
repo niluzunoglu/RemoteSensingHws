@@ -3,7 +3,7 @@
 Kullanım
 -------
 $ python dtmf_detector.py a.data b.data c.data                # varsayılan fs=4000 Hz
-$ python dtmf_detector.py tone1.wav --fs 8000 --no-plot      # başka örnekleme
+$ python dtmf_detector.py tone1.wav --fs 8000 --no-plot       # başka örnekleme
 Çıktılar `dtmf_outputs/` klasörüne yazılır (varsayılan grafikleri kapatmak için `--no-plot`).
 """
 
