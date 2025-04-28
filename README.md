@@ -14,7 +14,7 @@ Bu deponun temel amacı, ders süresince tamamlanan tüm çalışmaları düzenl
 | Ödev 2  | DTFT Fonksiyonu Çizdirme          | [`Homework2/`](./Homework2) | Tamamlandı ✅ |
 | Ödev 3  | DTMF Tuş Frekansları Bulma        | [`Homework3/`](./Homework3) | Tamamlandı ✅  |
 | Ödev 4  | Python Histogramlar               | [`Homework4/`](./Homework4) | Tamamlandı ✅  |
-| Ödev 5  | Lineer Histogram Eşitleme         | [`Homework5/`](./Homework5) | Devam Ediyor ⏳ |
+| Ödev 5  | Lineer Histogram Eşitleme         | [`Homework5/`](./Homework5) | Tamamlandı ✅  |
 | Ödev 6  | Kutu, Gauss, Laplacian Konvolüsyonları | [`Homework6/`](./Homework4) | Başlanmadı 🥺 |
 | Proje   | [Proje Konusu]                    | [`Project/`](./Project) | Başlanmadı 🥺  |
 | ...     | ...                               | ...           | ...       |
