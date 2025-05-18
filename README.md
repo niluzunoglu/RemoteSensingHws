@@ -16,6 +16,7 @@ Bu deponun temel amacı, ders süresince tamamlanan tüm çalışmaları düzenl
 | Ödev 4  | Python Histogramlar               | [`Homework4/`](./Homework4) | Tamamlandı ✅  |
 | Ödev 5  | Lineer Histogram Eşitleme         | [`Homework5/`](./Homework5) | Tamamlandı ✅  |
 | Ödev 6  | Kutu, Gauss, Laplacian Konvolüsyonları | [`Homework6/`](./Homework6) | Tamamlandı ✅   |
+| Ödev 7  | Veri Analizi ve Uzaklık Metrikleri | [`Homework7/`](./Homework7) | Tamamlandı ✅   |
 | Proje   | [Proje Konusu]                    | [`Project/`](./Project) | Başlanmadı 🥺  |
 | ...     | ...                               | ...           | ...       |
 
