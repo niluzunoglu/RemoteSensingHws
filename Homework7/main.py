@@ -83,7 +83,6 @@ for i, cift in enumerate(secilen_ciftler_indeks):
     print(f"\n--- Örnek Çifti {i+1} (Örnek {ornek1_idx+1} ve Örnek {ornek2_idx+1}) ---")
 
     # a) Euclidean Uzaklığı
-    # Elle hesaplama:
     fark_kare_toplam = 0
     for k in range(ozellik_sayisi):
         fark_kare_toplam += (vektor1[k] - vektor2[k])**2
@@ -95,7 +94,6 @@ for i, cift in enumerate(secilen_ciftler_indeks):
     print(f"  Euclidean Uzaklığı (SciPy): {euclidean_scipy:.3f}")
 
     # b) Cosine Uzaklığı (1 - Cosine Benzerliği)
-    # Elle hesaplama (Cosine Benzerliği):
     dot_product = np.dot(vektor1, vektor2)
     norm_vektor1 = np.linalg.norm(vektor1)
     norm_vektor2 = np.linalg.norm(vektor2)
@@ -123,7 +121,6 @@ for i, cift in enumerate(secilen_ciftler_indeks):
     # d) Mahalanobis Uzaklığı
     try:
         ters_kovaryans_matrisi = np.linalg.inv(kovaryans_matrisi)
-        # Elle hesaplama: sqrt((v1-v2).T * inv(COV) * (v1-v2))
         fark_vektoru = vektor1 - vektor2
         mahalanobis_hesaplanan = np.sqrt(np.dot(np.dot(fark_vektoru.T, ters_kovaryans_matrisi), fark_vektoru))
         mahalanobis_scipy = distance.mahalanobis(vektor1, vektor2, ters_kovaryans_matrisi)
